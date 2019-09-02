@@ -9,8 +9,12 @@
   },
   "devDependencies": {
     "@types/node": "^12.7.3",
+    "@types/three": "^0.103.2",
     "ts-node": "^8.3.0",
     "tslint": "^5.19.0",
     "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "three": "^0.108.0"
   }
 }
